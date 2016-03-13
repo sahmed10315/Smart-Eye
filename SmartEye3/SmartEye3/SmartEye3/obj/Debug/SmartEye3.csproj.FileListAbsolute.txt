@@ -1,0 +1,57 @@
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Properties.Resources.resources
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\obj\Debug\SmartEye3.csproj.GenerateResource.Cache
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\bin\Debug\SmartEye3.exe.config
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\bin\Debug\SmartEye3.exe
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\bin\Debug\SmartEye3.pdb
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\obj\Debug\SmartEye3.exe
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\obj\Debug\SmartEye3.pdb
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form1.resources
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form2.resources
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form3.resources
+C:\Documents and Settings\s124.05\Desktop\FYP\FYP Components\SmartEye3\SmartEye3\bin\Debug\SmartEye3.exe.config
+C:\Documents and Settings\s124.05\Desktop\FYP\FYP Components\SmartEye3\SmartEye3\obj\Debug\SmartEye3.exe
+C:\Documents and Settings\s124.05\Desktop\FYP\FYP Components\SmartEye3\SmartEye3\obj\Debug\SmartEye3.pdb
+C:\Documents and Settings\s124.05\Desktop\FYP\FYP Components\SmartEye3\SmartEye3\bin\Debug\SmartEye3.exe
+C:\Documents and Settings\s124.05\Desktop\FYP\FYP Components\SmartEye3\SmartEye3\bin\Debug\SmartEye3.pdb
+C:\Documents and Settings\s124.05\Desktop\FYP\FYP Components\SmartEye3\SmartEye3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\s124.05\Desktop\FYP\FYP Components\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form1.resources
+C:\Documents and Settings\s124.05\Desktop\FYP\FYP Components\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form2.resources
+C:\Documents and Settings\s124.05\Desktop\FYP\FYP Components\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form3.resources
+C:\Documents and Settings\s124.05\Desktop\FYP\FYP Components\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Properties.Resources.resources
+C:\Documents and Settings\s124.05\Desktop\FYP\FYP Components\SmartEye3\SmartEye3\obj\Debug\SmartEye3.csproj.GenerateResource.Cache
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Phase1.resources
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\obj\Debug\SmartEye3.SelectStereoImages.resources
+D:\Programming\My Academic Projects\Final Year Project\Work Products\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Phase2.resources
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\bin\Debug\SmartEye3.exe.config
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.exe
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.pdb
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form1.resources
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form2.resources
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form3.resources
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\AIEnginePhase.mainForm.resources
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Phase1.resources
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Phase2.resources
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Properties.Resources.resources
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.SelectStereoImages.resources
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\AIEnginePhase.ShowEdges.resources
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.csproj.GenerateResource.Cache
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\bin\Debug\SmartEye3.exe
+C:\Users\Saad Ahmed\Documents\SmartEye3\SmartEye3\SmartEye3\bin\Debug\SmartEye3.pdb
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\bin\Debug\SmartEye3.exe.config
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.exe
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.pdb
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form2.resources
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Form3.resources
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\AIEnginePhase.mainForm.resources
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Phase1.resources
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Phase2.resources
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.SelectStereoImages.resources
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\AIEnginePhase.ShowEdges.resources
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\obj\Debug\SmartEye3.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\bin\Debug\SmartEye3.exe
+C:\Documents and Settings\Administrator\Desktop\SmartEyeFinished\SmartEye3\SmartEye3\SmartEye3\bin\Debug\SmartEye3.pdb
